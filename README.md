@@ -1,0 +1,2 @@
+# EduRole
+A School Portal
